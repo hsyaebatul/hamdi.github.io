@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
    <head>
       <!-- basic -->
@@ -22,10 +22,7 @@
       <link rel="icon" href="images/fevicon.png" type="image/gif" />
       <!-- Scrollbar Custom CSS -->
       <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
-      <!-- Tweaks for older IEs-->
-      <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+     
    </head>
    <!-- body -->
    <body class="main-layout">
@@ -97,23 +94,6 @@
                      <h4>Tsunami</h4>
                      <h5></h5>
                      <p>Tsunami (津波, "ombak besar di pelabuhan") adalah gelombang air besar yang diakibatkan oleh gangguan di dasar laut, seperti gempa bumi. Gangguan ini membentuk gelombang yang menyebar ke segala arah dengan kecepatan gelombang mencapai 600–900 km/jam. Awalnya gelombang tersebut memiliki amplitudo kecil (umumnya 30–60 cm) sehingga tidak terasa di laut lepas, tetapi amplitudonya membesar saat mendekati pantai. Saat mencapai pantai, tsunami kadang menghantam daratan berupa dinding air raksasa (terutama pada tsunami-tsunami besar), tetapi bentuk yang lebih umum adalah naiknya permukaan air secara tiba-tiba. Kenaikan permukaan air dapat mencapai 15–30 meter, menyebabkan banjir dengan kecepatan arus hingga 90 km/jam, menjangkau beberapa kilometer dari pantai, dan menyebabkan kerusakan dan korban jiwa yang besar.</p>
-                  </div>
-               </div>
-            </div>
-
-
-
-
-
-
-
-
-            
-               </div>
-            </div>
-         </div>
-      </div>
-      <!-- end section -->
-
+                 
    </body>
 </html>
